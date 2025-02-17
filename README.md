@@ -58,7 +58,7 @@ Demo video is [here](____).
 
 ## Credits
 
-All code written by me, with help from several AI chatbots, incl. the edX AI chatbot, ChatGPT, and GitHub Copilot. Instructors, TA's, and classmate's time graciously donated when having issues with Render.
+All code written by me, with help from several AI chatbots, incl. the edX AI chatbot, ChatGPT, and GitHub Copilot. Instructors, TA's, and classmate's time graciously donated when having issues with an odd, inconsistent bug.
 
 ## License
 
