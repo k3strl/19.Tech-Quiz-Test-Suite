@@ -5,7 +5,7 @@
 
 ## Description
 
-This is a simple Python quiz webapp, that tests the user on Python fundamentals. This assignment was to write Cypress tests for an already-functioning codebase supplied by edX.
+This is a simple webapp quiz that tests the user on Python fundamentals. This assignment was to write Cypress tests for an already-functioning codebase supplied by edX.
 
 ## Table of Contents
 
