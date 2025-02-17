@@ -12,7 +12,7 @@ This is a simple quiz that tests the user on Python fundamentals. This assignmen
 - [Test Quiz Test Suite](#tech-quiz-test-suite)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
-  - [Screenshot](#screenshot)
+  - [Demo Video](#demo-video)
   - [User Story](#user-story)
   - [Acceptance Criteria](#acceptance-criteria)
   - [Installation](#installation)
