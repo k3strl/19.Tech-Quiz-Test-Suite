@@ -5,7 +5,7 @@
 
 ## Description
 
-This is a simple webapp quiz that tests the user on Python fundamentals. This assignment was to write Cypress tests for an already-functioning codebase supplied by edX.
+This is a simple quiz that tests the user on Python fundamentals. This assignment was to write Cypress tests for an already-functioning codebase supplied by edX.
 
 ## Table of Contents
 
@@ -23,11 +23,9 @@ This is a simple webapp quiz that tests the user on Python fundamentals. This as
   - [Tests](#tests)
   - [Questions?](#questions)
 
-## Screenshot
+## Demo Video
 
-Demo video is [here](____).
-
-![Screenshot)
+Demo video is [here]([____](https://drive.google.com/file/d/1fi-pvgILrvPsJhAlGYp8lRHrurn3zkCO/view?usp=sharing)).
 
 ## User Story
 
@@ -50,11 +48,10 @@ Demo video is [here](____).
 - THEN I can start a new quiz
 
 ## Installation
-
+Download or fork repo. In the terminal, run "npm install" to install all required packages and "npm run build" to build the app.
 
 ## Usage
-
-
+In the terminal, run "npm run start:dev" to run the server. In another terminal window, run "npm run test:e2e" to run end-to-end tests, and "npm run test:component" to run component tasts. All should pass.
 
 ## Credits
 
