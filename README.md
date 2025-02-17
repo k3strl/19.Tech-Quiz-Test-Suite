@@ -25,7 +25,7 @@ This is a simple quiz that tests the user on Python fundamentals. This assignmen
 
 ## Demo Video
 
-Demo video is [here]([____](https://drive.google.com/file/d/1fi-pvgILrvPsJhAlGYp8lRHrurn3zkCO/view?usp=sharing)).
+Demo video is [here](https://drive.google.com/file/d/1fi-pvgILrvPsJhAlGYp8lRHrurn3zkCO/view?usp=sharing).
 
 ## User Story
 
